@@ -3,6 +3,7 @@ import { defineUserConfig } from 'vuepress/cli'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
+  base: '/vuepress-starter/',
   lang: 'en-US',
 
   title: 'VuePress',
