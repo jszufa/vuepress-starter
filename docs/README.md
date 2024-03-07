@@ -3,7 +3,7 @@ home: true
 title: Home
 heroImage: https://vuejs.press/images/hero.png
 actions:
-  - text: Test
+  - text: Test Drugi
     link: /getting-started.html
     type: primary
 
